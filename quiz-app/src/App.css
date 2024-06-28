@@ -1,0 +1,38 @@
+.container ul li{
+     display: flex;
+     align-items: center;
+     height: 50px;
+     padding-left: 15px;
+     border: 1px solid black;
+     border-radius: 8px;
+     margin-bottom: 20px;
+     font-size: 20px;
+     cursor: pointer;             
+}
+
+.container .correct{
+    background-color: #6f5fe9;
+    border-color: #00d397;
+    color: white;
+}
+.container .wrong{
+    background-color: #f54444;
+    border-color: #f82525;
+    color: white;
+}
+.container{
+        font-family: 'poppins',sans-serif;
+        
+}
+.rounded {
+    border-radius: 10px; /* Adjust the radius as per your preference */
+  }
+  span{
+    color: 000;
+  }
+  .navvv{
+    display: none;
+  }
+
+
+  
